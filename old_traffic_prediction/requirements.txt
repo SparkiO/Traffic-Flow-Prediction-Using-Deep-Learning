@@ -1,0 +1,6 @@
+matplotlib
+Pillow
+pandas
+apscheduler
+bs4
+numpy
